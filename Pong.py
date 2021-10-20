@@ -1,6 +1,6 @@
 # Single Pong in Python 3 for Beginners 
-# Credits to Beau Carnes https://carnes.cc/
-# Follow the video on https://www.youtube.com/watch?v=XGf2GcyHPhc&t=56s&ab_channel=freeCodeCamp.org
+# Credits to @tokyoedtech https://twitter.com/tokyoedtech
+# Follow the videos on https://www.youtube.com/watch?v=LH8WgrUWG_I&list=PLlEgNdBJEO-kXk2PyBxhSmo84hsO3HAz2&ab_channel=TokyoEdtech
 
 import turtle
 import os
